@@ -1,0 +1,1 @@
+New reservation on <?php echo e($site_name); ?>

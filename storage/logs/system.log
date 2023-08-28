@@ -1,0 +1,1228 @@
+[2023-07-31 02:56:07] production.ERROR: Provider "Open street maps" could not geocode address, "The geocoder server returned an empty or invalid response.".  
+[2023-07-31 02:56:07] production.ERROR: Provider "Open street maps" could not geocode address, "The geocoder server returned an empty or invalid response.".  
+[2023-07-31 02:58:41] production.ERROR: Provider "Open street maps" could not geocode address, "The geocoder server returned an empty or invalid response.".  
+[2023-07-31 02:58:41] production.ERROR: Provider "Open street maps" could not geocode address, "The geocoder server returned an empty or invalid response.".  
+[2023-07-31 22:10:18] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:10:26] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:10:29] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:10:40] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:10:41] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:13:16] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:13:17] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:13:25] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:13:33] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:13:35] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:13:42] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:13:43] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:13:48] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:13:49] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:26:57] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:27:07] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:27:08] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:32:44] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:32:46] production.ERROR: Provider "Open street maps" could not geocode address, "The geocoder server returned an empty or invalid response.".  
+[2023-07-31 22:32:46] production.ERROR: Provider "Open street maps" could not geocode address, "The geocoder server returned an empty or invalid response.".  
+[2023-07-31 22:33:28] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:33:30] production.ERROR: Provider "Open street maps" could not geocode address, "The geocoder server returned an empty or invalid response.".  
+[2023-07-31 22:33:30] production.ERROR: Provider "Open street maps" could not geocode address, "The geocoder server returned an empty or invalid response.".  
+[2023-07-31 22:34:00] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-07-31 22:34:01] production.ERROR: Provider "Open street maps" could not geocode address, "The geocoder server returned an empty or invalid response.".  
+[2023-07-31 22:34:01] production.ERROR: Provider "Open street maps" could not geocode address, "The geocoder server returned an empty or invalid response.".  
+[2023-08-01 00:59:21] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:36:03] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:36:07] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:38:35] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:38:37] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:38:37] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:38:48] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:38:49] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:38:57] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:39:04] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:39:04] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:39:07] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:39:09] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:39:09] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:39:19] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:39:21] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:39:29] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:39:37] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 01:39:39] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 03:39:54] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 03:40:30] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 03:40:35] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 03:40:35] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 03:40:38] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 03:40:43] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 03:40:49] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-01 03:40:51] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:13:16] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:13:31] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:13:31] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:20:53] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:21:00] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:21:02] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:21:02] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:21:07] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:21:09] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:21:14] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:21:20] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:21:20] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:21:29] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:21:43] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:21:57] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:23:04] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:23:13] production.DEBUG: Message-ID: <c8e1ae6b0f49f195f37ab7f8ac743ffe@localhost>
+Date: Fri, 18 Aug 2023 02:23:11 +0100
+Subject: simon parilla reservation confirmation - 1
+From: simon parilla <bz_91.k@hotmail.com>
+To: Bryan zapata <bz_91.k@hotmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1692321793_d06929d7d692d2abf68d9d47223602ca_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://localhost/torta/storage/temp/public/24f/649/dbd/thumb_24f649dbdd86289cc755380e03de0f51_1687179942_0x90_contain.png"
+                        alt="simon parilla"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi Bryan zapata,</p>
+<h2>Thank you for your reservation!</h2>
+<p>Your reservation <strong>1</strong> at Default has been booked for 6 person(s) on Thursday, 24th Aug 2023 at 12:10 am.</p>
+<p>Thanks for reserving with us online!</p>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2023 simon parilla. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi Bryan zapata,
+
+Thank you for your reservation!
+
+Your reservation 1 at Default has been booked for 6 person(s) on Thursday, 24th Aug 2023 at 12:10 am.
+
+Thanks for reserving with us online!  
+[2023-08-18 02:23:13] production.DEBUG: Message-ID: <38e89730d7b34ba8f6ebdfaf2117f763@localhost>
+Date: Fri, 18 Aug 2023 02:23:13 +0100
+Subject: New reservation on simon parilla
+From: simon parilla <bz_91.k@hotmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1692321793_72952a46e11be20949e133855378411e_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://localhost/torta/storage/temp/public/24f/649/dbd/thumb_24f649dbdd86289cc755380e03de0f51_1687179942_0x90_contain.png"
+                        alt="simon parilla"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <h2>You received a table reservation from simon parilla.</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Customer name</strong></td>
+<td>Bryan zapata</td>
+</tr>
+<tr>
+<td><strong>Reservation no</strong></td>
+<td>1</td>
+</tr>
+<tr>
+<td><strong>Restaurant</strong></td>
+<td>Default</td>
+</tr>
+<tr>
+<td><strong>No of guest(s)</strong></td>
+<td>6 person(s)</td>
+</tr>
+<tr>
+<td><strong>Reservation date</strong></td>
+<td>Thursday, 24th Aug 2023</td>
+</tr>
+<tr>
+<td><strong>Reservation time</strong></td>
+<td>12:10 am</td>
+</tr>
+</tbody>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2023 simon parilla. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+You received a table reservation from simon parilla.
+
+Customer name: Bryan zapata
+Reservation no: 1
+Restaurant: Default
+No of guest(s): 6 person(s)
+Reservation date: Thursday, 24th Aug 2023
+Reservation time: 12:10 am  
+[2023-08-18 02:23:13] production.DEBUG: Message-ID: <db9c21ce513a4cbdd3adfe54a79af4cb@localhost>
+Date: Fri, 18 Aug 2023 02:23:13 +0100
+Subject: New reservation on simon parilla
+From: simon parilla <bz_91.k@hotmail.com>
+Reply-To: Bryan zapata <bz_91.k@hotmail.com>
+To: simon parilla <bz_91.k@hotmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1692321793_7fc7009773bafe7e545386edf46eb14d_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://localhost/torta/storage/temp/public/24f/649/dbd/thumb_24f649dbdd86289cc755380e03de0f51_1687179942_0x90_contain.png"
+                        alt="simon parilla"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <h2>You received a table reservation from simon parilla.</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Customer name</strong></td>
+<td>Bryan zapata</td>
+</tr>
+<tr>
+<td><strong>Reservation no</strong></td>
+<td>1</td>
+</tr>
+<tr>
+<td><strong>Restaurant</strong></td>
+<td>Default</td>
+</tr>
+<tr>
+<td><strong>No of guest(s)</strong></td>
+<td>6 person(s)</td>
+</tr>
+<tr>
+<td><strong>Reservation date</strong></td>
+<td>Thursday, 24th Aug 2023</td>
+</tr>
+<tr>
+<td><strong>Reservation time</strong></td>
+<td>12:10 am</td>
+</tr>
+</tbody>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2023 simon parilla. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+You received a table reservation from simon parilla.
+
+Customer name: Bryan zapata
+Reservation no: 1
+Restaurant: Default
+No of guest(s): 6 person(s)
+Reservation date: Thursday, 24th Aug 2023
+Reservation time: 12:10 am  
+[2023-08-18 02:23:14] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-18 02:26:53] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-28 20:46:54] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-28 20:47:12] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  
+[2023-08-28 20:47:12] production.ERROR: GeoIp2 Error -> Missing GeoIP account ID or license key  

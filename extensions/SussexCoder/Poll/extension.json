@@ -1,0 +1,12 @@
+{
+    "code": "SussexCoder.Poll",
+    "name": "Poll",
+    "description": "Easily add a Poll to your website, offer your customers the chance to vote on tomorrows 'Soup of the Day'",
+    "version": "1.0.0-stable.1",
+    "author": "Daniel Crawley",
+    "icon": "fa-poll",
+    "homepage": "https://github.com/netstorm84/igniter-poll",
+    "require": {
+      "igniter.local": "*"
+    }
+  }
